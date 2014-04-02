@@ -1,1 +1,38 @@
 /* 720px.css */
+.layout{
+    width:720px;
+    margin:0 10px;
+}
+.one-column .column{
+    width:700px;
+}
+.two-column .column{
+    width:340px;
+}
+.three-column .column{
+    width:220px;
+}
+.four-column .column{
+    width:160px;
+}
+.five-column .column{
+   width:124px;
+}
+.six-column .column{
+    width:100px;
+}
+.eight-column .column{
+    width:70px;
+}
+.ten-column .column{
+    width:52px;
+}
+.twelve-column .column{
+    width:40px;
+}
+.fifteen-column{
+    width:28px;
+}
+.sixteen-column{
+    width:25px;
+}
