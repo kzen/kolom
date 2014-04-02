@@ -1,1 +1,40 @@
 /* 480px.css */
+.layout{
+    width:480px;
+}
+.column{
+    margin:0 5px;
+}
+.one-column .column{
+    width:470px;
+}
+.two-column .column{
+    width:230px;
+}
+.three-column .column{
+    width:150px;
+}
+.four-column .column{
+    width:110px;
+}
+.five-column .column{
+    width:86px;
+}
+.six-column .column{
+    width:70px;
+}
+.eight-column .column{
+    width:40px;
+}
+.ten-column .column{
+    width:38px;
+}
+.twelve-column .column{
+    width:30px;
+}
+.fifteen-column .column{
+    width:22px;
+}
+.sixteen-column .column{
+    width:20px;
+}
