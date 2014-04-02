@@ -7,35 +7,35 @@
     margin:0 10px;
 }
 .one-column .column{
-    width:1160px; /* 1200px */
+    width:1180px; /* 1200px */
 }
 .two-column .column{
-    width:560px; /* 600px */
+    width:580px; /* 600px */
 }
 .three-column .column{
-    width:360px; /* 400px */
+    width:380px; /* 400px */
 }
 .four-column .column{
-    width:260px; /* 300px */
+    width:280px; /* 300px */
 }
 .five-column .column{
-    width:200px; /* 240px */
+    width:220px; /* 240px */
 }
 .six-column .column{
-    width:160px; /* 200px */
+    width:180px; /* 200px */
 }
 .eight-column .column{
-    width:110px; /* 150px */
+    width:130px; /* 150px */
 }
 .ten-column .column{
-    width:80px; /* 120px */
+    width:100px; /* 120px */
 }
 .twelve-column .column{
-    width:60px; /* 100px */
+    width:80px; /* 100px */
 }
 .fifteen-column .column{
-    width:40px; /* 80px */
+    width:60px; /* 80px */
 }
 .sixteen-column .column{
-    width:35px; /* 75px */
+    width:55px; /* 75px */
 }

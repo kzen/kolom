@@ -1,1 +1,41 @@
 /* 960px.css */
+
+.layout{
+    width:960px;
+}
+.column{
+    margin:0 auto;
+}
+.one-column .column{
+    width:940px;
+}
+.two-column .column{
+    width:460px;
+}
+.three-column .column{
+    width:300px;
+}
+.four-column .column{
+    width:220px;
+}
+.five-column .column{
+    width:172px;
+}
+.six-column .column{
+    width:140px;
+}
+.eight-column .column{
+    width:100px;
+}
+.ten-column .column{
+    width:76px;
+}
+.twelve-column .column{
+    width:60px;
+}
+.fifteen-column .column{
+    width:44px;
+}
+.sixteen-column .column{
+    width:40px;
+}
