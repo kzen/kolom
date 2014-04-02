@@ -19,3 +19,16 @@
 @media (max-width:479px) {
 	@import url("layouts/240px.css");
 }
+
+.layout{
+    display:block;
+    margin:0 auto;
+}
+.row{
+    width:100%;
+    display:inline-block;
+}
+.column{
+    display:inline;
+    float:left;
+}
