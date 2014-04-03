@@ -4,3 +4,10 @@
 @import url("css/fonts.css");
 
 /* begin custom styles */
+
+.column{
+    margin-top:10px;
+    margin-bottom:10px;
+    height:32px;
+    background-color:#222;
+}
