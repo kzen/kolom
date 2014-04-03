@@ -1,6 +1,9 @@
 /* 720px.css */
+@media (min-width:720px) and (max-width:959px) {
 .layout{
     width:720px;
+}
+.column{
     margin:0 10px;
 }
 .one-column .column{
@@ -35,4 +38,5 @@
 }
 .sixteen-column{
     width:25px;
+}
 }

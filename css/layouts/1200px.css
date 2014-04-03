@@ -1,5 +1,5 @@
 /* 1200px.css */
-
+@media (min-width:1200px) {
 .layout{
     width:1200px;
 }
@@ -38,4 +38,5 @@
 }
 .sixteen-column .column{
     width:55px; /* 75px */
+}
 }

@@ -1,5 +1,5 @@
 /* 240px.css */
-
+@media (max-width:479px) {
 .layout{
     width:240px;
 }
@@ -20,11 +20,12 @@
 }
 .five-column .column, .ten-column .column,
 .fifteen-column .column{
-    width:48px;
+    width:38px;
 }
 .six-column .column, .twelve-column .column{
     width:30px;
 }
 .eight-column .column, .sixteen-column .column{
     width:20px;
+}
 }
