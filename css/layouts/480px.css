@@ -13,12 +13,12 @@
     width:230px;
 }
 .two-column .column.span02{
-    width:370px;
+    width:470px;
 }
 .three-column .column{
     width:150px;
 }
-.three-column .column{
+.three-column .column.span02{
     width:310px;
 }
 .three-column .column.span03{
@@ -127,7 +127,7 @@
     width:30px;
 }
 .twelve-column .column.span02{
-    width:70;
+    width:70px;
 }
 .twelve-column .column.span03{
     width:110px;
