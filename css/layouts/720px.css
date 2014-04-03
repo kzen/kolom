@@ -12,31 +12,244 @@
 .two-column .column{
     width:340px;
 }
+.two-column .column.span02{
+    width:700px;
+}
 .three-column .column{
     width:220px;
+}
+.three-column .column.span02{
+    width:460px;
+}
+.three-column .column.span03{
+    width:700px;
 }
 .four-column .column{
     width:160px;
 }
+.four-column .column.span02{
+    width:340px;
+}
+.four-column .column.span03{
+    width:520px;
+}
+.four-column .column.span04{
+    width:700px;
+}
 .five-column .column{
    width:124px;
+}
+.five-column .column.span02{
+    width:268px;
+}
+.five-column .column.span03{
+    width:412px;
+}
+.five-column .column.span04{
+    width:556px;
+}
+.five-column .column.span05{
+    width:700px;
 }
 .six-column .column{
     width:100px;
 }
+.six-column .column.span02{
+    width:220px;
+}
+.six-column .column.span03{
+    width:340px;
+}
+.six-column .column.span04{
+    width:460px;
+}
+.six-column .column.span05{
+    width:580px;
+}
+.six-column .column.span06{
+    width:700px;
+}
 .eight-column .column{
     width:70px;
+}
+.eight-column .column.span02{
+    width:160px;
+}
+.eight-column .column.span03{
+    width:250px;
+}
+.eight-column .column.span04{
+    width:340px;
+}
+.eight-column .column.span05{
+    width:430px;
+}
+.eight-column .column.span06{
+    width:520px;
+}
+.eight-column .column.span07{
+    width:610px;
+}
+.eight-column .column.span08{
+    width:700px;
 }
 .ten-column .column{
     width:52px;
 }
+.ten-column .column.span02{
+    width:124px;
+}
+.ten-column .column.span03{
+    width:196px;
+}
+.ten-column .column.span04{
+    width:268px;
+}
+.ten-column .column.span05{
+    width:340px;
+}
+.ten-column .column.span06{
+    width:412px;
+}
+.ten-column .column.span07{
+    width:484px;
+}
+.ten-column .column.span08{
+    width:556px;
+}
+.ten-column .column.span09{
+    width:628px;
+}
+.ten-column .column.span10{
+    width:700px;
+}
 .twelve-column .column{
     width:40px;
 }
-.fifteen-column{
+.twelve-column .column.span02{
+    width:100px;
+}
+.twelve-column .column.span03{
+    width:160px;
+}
+.twelve-column .column.span04{
+    width:220px;
+}
+.twelve-column .column.span05{
+    width:280px;
+}
+.twelve-column .column.span06{
+    width:340px;
+}
+.twelve-column .column.span07{
+    width:400px;
+}
+.twelve-column .column.span08{
+    width:460px;
+}
+.twelve-column .column.span09{
+    width:520px;
+}
+.twelve-column .column.span10{
+    width:580px;
+}
+.twelve-column .column.span11{
+    width:640px;
+}
+.twelve-column .column.span12{
+    width:700px;
+}
+.fifteen-column .column{
     width:28px;
 }
-.sixteen-column{
+.fifteen-column .column.span02{
+    width:76px;
+}
+.fifteen-column .column.span03{
+    width:124px;
+}
+.fifteen-column .column.span04{
+    width:172px;
+}
+.fifteen-column .column.span05{
+    width:220px;
+}
+.fifteen-column .column.span06{
+    width:268px;
+}
+.fifteen-column .column.span07{
+    width:316px;
+}
+.fifteen-column .column.span08{
+    width:364px;
+}
+.fifteen-column .column.span09{
+    width:412px;
+}
+.fifteen-column .column.span10{
+    width:460px;
+}
+.fifteen-column .column.span11{
+    width:508px;
+}
+.fifteen-column .column.span12{
+    width:556px;
+}
+.fifteen-column .column.span13{
+    width:604px;
+}
+.fifteen-column .column.span14{
+    width:652px;
+}
+.fifteen-column .column.span15{
+    width:700px;
+}
+.sixteen-column .column{
     width:25px;
+}
+.sixteen-column .column.span02{
+    width:70px;
+}
+.sixteen-column .column.span03{
+    width:115px;
+}
+.sixteen-column .column.span04{
+    width:160px;
+}
+.sixteen-column .column.span05{
+    width:205px;
+}
+.sixteen-column .column.span06{
+    width:250px;
+}
+.sixteen-column .column.span07{
+    width:295px;
+}
+.sixteen-column .column.span08{
+    width:340px;
+}
+.sixteen-column .column.span09{
+    width:385px;
+}
+.sixteen-column .column.span10{
+    width:430px;
+}
+.sixteen-column .column.span11{
+    width:475px;
+}
+.sixteen-column .column.span12{
+    width:520px;
+}
+.sixteen-column .column.span13{
+    width:565px;
+}
+.sixteen-column .column.span14{
+    width:610px;
+}
+.sixteen-column .column.span15{
+    width:655px;
+}
+.sixteen-column .column.span16{
+    width:700px;
 }
 }
