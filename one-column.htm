@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Kolom - One-Column Layout Demonstration</title>
+    <link rel="stylesheet" href="kolom.css"/>
+</head>
+<body class="layout one-column">
+    <div id="header" class="row">
+        <div class="column">
+            <h1>Kolom One-Column Layout Demonstration</h1>
+        </div>
+    </div>
+    <ul id="top-nav" class="row">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <div id="introduction" class="row">
+        <div class="column">
+            <h2>Introduction</h2>
+            <p>Welcome to the One-Column Layout Demonstration for Kolom. Before we get too far ahead, please take a moment to review the source code of this page so that you can see how we've used Kolom to create a minimal design centered around a single-column layout. There are a number of features of Kolom that were used to rapidly produce this page without too much effort on the part of the designer, and being familiar with the document itself will help you understand how to better use the conventions on this page in your own designs.</p>
+        </div>
+    </div>
+    <div id="layouts" class="row">
+        <div class="column">
+            <h2>Layouts</h2>
+            <p>First things first, we would like to bring your attention to the <em>layout</em> element (.layout). Layouts are our way of making sure all of the elements of a design stick together. Typically, there is a single layout per page, but by all means use more if your design requires it. In our demonstration, we've chosen to apply the layout element directly to the body tag, as we are only planning on using, and demonstrating, a single layout on this page. You can also use the layout element on divs or virtually any other container which you might use to organize content.</p>
+            <p>The only requirement is that the layout should be the outermost wrapper, so that it will organize and display content appropriately on the page.</p>
+        </div>
+    </div>
+    <div id="column-specifications" class="row">
+        <div class="column">
+            <h2>Column Specifications</h2>
+            <p>Another interesting feature of Kolom is its support for several different column based layouts (up to 16 columns if you need it!). All the column specification does is tell Kolom how to draw other elements (columns, specifically) when it is rendered on the page. While most designs will utilize the same number of columns throughout their page, Kolom alows you to specify the column count any parent element (in Kolom, the parent elements are layouts and rows), providing a great deal of flexibility as a result.</p>
+            <p>For our purposes, we specified the column count in the topmost parent so that we wouldn't have to fuss around with it more later.</p>
+        </div>
+    </div>
+</body>
+</html>

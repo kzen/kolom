@@ -17,3 +17,9 @@
     display:inline;
     float:left;
 }
+.column.alpha{
+    margin-left:0px;
+}
+.column.omega{
+    margin-right:0px;
+}
