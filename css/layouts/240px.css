@@ -12,20 +12,104 @@
 .two-column .column{
     width:110px;
 }
+.two-column .column.span02{
+    width:230px;
+}
 .three-column .column{
     width:70px;
 }
+.three-column .column.span02{
+    width:150px;
+}
+.three-column .column.span03{
+    width:230px;
+}
 .four-column .column{
     width:50px;
+}
+.four-column .column.span02{
+    width:110px;
+}
+.four-column .column.span03{
+    width:170px;
+}
+.four-column .column.span04{
+    width:230px;
 }
 .five-column .column, .ten-column .column,
 .fifteen-column .column{
     width:38px;
 }
+.five-column .column.span02, .ten-column .column.span02,
+.fifteen-column .column.span02{
+    width:86px;
+}
+.five-column .column.span03, .ten-column .column.span03,
+.fifteen-column .column.span03{
+    width:134px;
+}
+.five-column .column.span04, .ten-column .column.span04,
+.fifteen-column .column.span04{
+    width:182px;
+}
+.five-column .column.span05, .ten-column .column.span05,
+.fifteen-column .column.span05, .ten-column .column.span06,
+.fifteen-column .column.span06, .ten-column .column.span07,
+.fifteen-column .column.span07, .ten-column .column.span08,
+.fifteen-column .column.span08, .ten-column .column.span09,
+.fifteen-column .column.span09, .ten-column .column.span10,
+.fifteen-column .column.span10, .fifteen-column .column.span11,
+.fifteen-column .column.span12, .fifteen-column .column.span13,
+.fifteen-column .column.span14, .fifteen-column .column.span15{
+    width:230px;
+}
 .six-column .column, .twelve-column .column{
     width:30px;
 }
+.six-column .column.span02, .twelve-column .column.span02{
+    width:70px;
+}
+.six-column .column.span03, .twelve-column .column.span03{
+    width:110px;
+}
+.six-column .column.span04, .twelve-column .column.span04{
+    width:150px;
+}
+.six-column .column.span05, .twelve-column .column.span05{
+    width:190px;
+}
+.six-column .column.span06, .twelve-column .column.span06,
+.twelve-column .column.span07, .twelve-column .column.span08,
+.twelve-column .column.span09, .twelve-column .column.span10,
+.twelve-column .column.span11, .twelve-column .column.span12{
+    width:230px;
+}
 .eight-column .column, .sixteen-column .column{
     width:20px;
+}
+.eight-column .column.span02, .sixteen-column .column.span02{
+    width:50px;
+}
+.eight-column .column.span03, .sixteen-column .column.span03{
+    width:80px;
+}
+.eight-column .column.span04, .sixteen-column .column.span04{
+    width:110px;
+}
+.eight-column .column.span05, .sixteen-column .column.span05{
+    width:140px;
+}
+.eight-column .column.span06, .sixteen-column .column.span06{
+    width:170px;
+}
+.eight-column .column.span07, .sixteen-column .column.span07{
+    width:200px;
+}
+.eight-column .column.span08, .sixteen-column .column.span08,
+.sixteen-column .column.span09, .sixteen-column .column.span10,
+.sixteen-column .column.span11, .sixteen-column .column.span12,
+.sixteen-column .column.span13, .sixteen-column .column.span14,
+.sixteen-column .column.span15, .sixteen-column .column.span16{
+    width:230px;
 }
 }
