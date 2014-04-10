@@ -1,25 +1,24 @@
 /* fonts.css */
 @media (min-width:480px) { 
-body, p, ul, ol, dl{
-    font-size:14px;
-    font-family:sans-serif;
-    line-height:1.60em;
-}
+    body, p, ul, ol, dl{
+        font-size:14px;
+    }
 }
 @media (max-width:479px) {
+    body, p, ul, ol, dl{
+        font-size:9px;
+    }
+}
 body, p, ul, ol, dl{
-    font-size:9px;
     font-family:sans-serif;
     line-height:1.60em;
 }
-}
-
 h1,h2,h3,h4,h5,h6{
     display:block;
     font-weight:bold;
     line-height:1.6em;
-    margin-top:3px;
-    margin-bottom:7px;
+    margin-top:.2em;
+    margin-bottom:.4em;
 }
 h1{
     font-size:2.30em;
@@ -38,4 +37,27 @@ h5{
 }
 h6{
     font-size:1.05em;
+}
+blockquote{
+    font-style:italic;
+    padding-left:10em;
+    padding-right:8em;
+}
+ul, ol, dl{
+    padding-left:8em;
+    padding-right:4em;
+}
+ul{
+    list-style-type:square;
+}
+ol{
+    list-style-type:decimal;
+}
+dt{
+    font-weight:bold;
+}
+dt:after{
+    content:": ";
+}
+dd{
 }
