@@ -55,9 +55,11 @@ ol{
 }
 dt{
     font-weight:bold;
+    text-transform:lowercase;
 }
 dt:after{
     content:": ";
 }
 dd{
+    margin-left:3em;
 }
