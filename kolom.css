@@ -17,13 +17,18 @@ ul#top-nav{
     margin:0;
     padding:0;
     width:20%;
+
 }
-#top-nav a{
+#top-nav li a{
     display:block;
     text-decoration:none;
     color:#000;
     font-weight:bold;
     height:18px;
+    border-left:1px solid #666;
+}
+#top-nav li:last-of-type a{
+    border-right:1px solid #666;
 }
 #top-nav a:hover{
     color:#555;
